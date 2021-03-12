@@ -1,9 +1,12 @@
 # GitFeatures Website
-This repository contains the code that runs [gitfeatures.com](https://gitfeatures.com) and is implemented with [Next.js](https://nextjs.org) and [Chakra UI](https://chakra-ui.com).   
+This repository contains the code that runs [gitfeatures.com](https://gitfeatures.com) and is implemented with [Next.js](https://nextjs.org) and [Chakra UI](https://chakra-ui.com). Some of the components are based on samples from [Choc UI](https://choc-ui.tech/).   
 
-It uses [Lato](https://www.latofonts.com/lato-free-fonts/) as the font for headings and [Inter](https://rsms.me/inter/) as the default font for text.
+This website uses [Lato](https://www.latofonts.com/lato-free-fonts/) as the font for headings and [Inter](https://rsms.me/inter/) as the default font for text.
 
-It is exported to static files using the `next export` command for easy hosting and SEO. The picture on the home page is by You X Ventures and can be found at [https://unsplash.com/photos/Oalh2MojUuk](https://unsplash.com/photos/Oalh2MojUuk)
+The picture on the home page is by You X Ventures and can be found at: [https://unsplash.com/photos/Oalh2MojUuk](https://unsplash.com/photos/Oalh2MojUuk)
+
+The website is exported to static files using the `next export` command for easy hosting and SEO.
+
 
 ## Building
 To run in development mode that rebuilds automatically after file changes:
