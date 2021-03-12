@@ -105,7 +105,7 @@ const Hero = () => {
                     </Center>
                     <Center pb={8}>
                         <Stack>
-                            <Text fontSize="xs" fontWeight="semibold" color="gray.500" textTransform="uppercase">Install with CORS proxy</Text>
+                            <Text fontSize="xs" fontWeight="semibold" color="gray.500" textTransform="uppercase">Install CLI launcher & CORS proxy with NPM</Text>
                             <Code display="flex" borderWidth="1px" pt={2} pb={2} pl={4} pr={4} borderRadius="md" borderColor="brand.500" color="brand.700" height={12} fontFamily="Courier New" fontSize="md" alignItems="center">
                                 npm i -g gitfeatures
                             </Code>
