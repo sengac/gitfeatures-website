@@ -1,4 +1,23 @@
 # GitFeatures Website
+This repository contains the code that runs [gitfeatures.com](https://gitfeatures.com) and is implemented with [Next.js](https://nextjs.org) and [Chakra UI](https://chakra-ui.com).   
+
+It uses [Lato](https://www.latofonts.com/lato-free-fonts/) as the font for headings and [Inter](https://rsms.me/inter/) as the default font for text.
+
+It is exported to static files using the `next export` command for easy hosting and SEO.
+
+## Building
+To run in development mode that rebuilds automatically after file changes:
+
+`yarn dev`
+
+To run in production mode that uses Server-Side Rendering (SSR):
+
+`yarn start`
+
+To export static files to the `/out` directory for static website hosting (this is how gitfeatures.com is hosted):
+
+`yarn export`
+
 
 ## License
 [![CC BY 4.0][cc-by-shield]][cc-by]
