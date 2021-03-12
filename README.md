@@ -3,7 +3,7 @@ This repository contains the code that runs [gitfeatures.com](https://gitfeature
 
 It uses [Lato](https://www.latofonts.com/lato-free-fonts/) as the font for headings and [Inter](https://rsms.me/inter/) as the default font for text.
 
-It is exported to static files using the `next export` command for easy hosting and SEO.
+It is exported to static files using the `next export` command for easy hosting and SEO. The picture on the home page is by You X Ventures and can be found at [https://unsplash.com/photos/Oalh2MojUuk](https://unsplash.com/photos/Oalh2MojUuk)
 
 ## Building
 To run in development mode that rebuilds automatically after file changes:
