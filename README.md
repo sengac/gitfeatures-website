@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# GitFeatures Website
+
+## License
+[![CC BY 4.0][cc-by-shield]][cc-by]
