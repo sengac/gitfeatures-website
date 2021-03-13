@@ -1,5 +1,5 @@
 import React from 'react';
-import {AspectRatio, Box, Heading, Image, Link, Stack, Text} from '@chakra-ui/react';
+import { AspectRatio, Box, Heading, Image, Link, Stack, Text } from '@chakra-ui/react';
 import Layout from '../components/Layout';
 import HtmlHead from '../components/HtmlHead';
 
