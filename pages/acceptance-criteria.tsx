@@ -15,11 +15,9 @@ const AcceptanceCriteria = () => {
                         <Box mb={12} maxW={{ base: "360px", md: "720px" }}>
                             <Text fontSize="xl" mb={4}>The 3Cs with GitFeatures</Text>
                             <AspectRatio minW={{ base: "360px", md: "720px" }} ratio={1.77} shadow="xl">
-                                <iframe
-                                    title="todo"
-                                    src="https://www.youtube.com/embed/x"
-                                    allowFullScreen
-                                />
+                                <iframe sandbox="allow-same-origin allow-scripts allow-popups"
+                                        src="https://videos.gitfeatures.com/videos/embed/a06b3533-1eed-424b-bcb1-5d59bcce14b5"
+                                        frameBorder="0" allowFullScreen></iframe>
                             </AspectRatio>
                         </Box>
 
