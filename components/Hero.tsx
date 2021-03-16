@@ -47,7 +47,7 @@ const Hero = () => {
                         color="gray.500"
                         textTransform="uppercase"
                     >
-                        Pre-alpha Release v0.0.1-alpha.0
+                        Pre-alpha Release v0.0.1-alpha.1
                     </chakra.p>
                     <Center>
                         <Stack p={6} isInline wrap="wrap">
@@ -84,7 +84,7 @@ const Hero = () => {
                     <Center flexDirection="column" pb={8}>
                         <Text fontSize="xs" fontWeight="semibold" color="gray.500" textTransform="uppercase" mb={2}>Install CLI app bundle & CORS proxy with NPM</Text>
                         <Code display="flex" borderWidth="1px" pt={2} pb={2} pl={4} pr={4} borderRadius="md" borderColor="brand.500" color="brand.700" height={12} fontFamily="Courier New" fontSize="md" alignItems="center">
-                            npm i -g gitfeatures
+                            npm i -g gitfeatures@latest
                         </Code>
                     </Center>
                     <chakra.p
