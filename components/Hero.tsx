@@ -47,7 +47,7 @@ const Hero = () => {
                         color="gray.500"
                         textTransform="uppercase"
                     >
-                        Pre-alpha Release v0.0.1-alpha.7
+                        Pre-alpha Release v0.0.1-alpha.8
                     </chakra.p>
                     <Center>
                         <Stack p={6} isInline wrap="wrap">
